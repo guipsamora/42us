@@ -1,0 +1,6 @@
+Credentials cache: API:20948
+        Principal: gsamora@42.US.ORG
+
+  Issued                Expires               Principal
+Aug  8 11:44:31 2016  Aug  8 21:44:31 2016  krbtgt/42.US.ORG@42.US.ORG
+Aug  8 12:03:20 2016  Aug  8 21:44:31 2016  host/vgs-fn1.42.us.org@42.US.ORG
